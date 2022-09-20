@@ -1,4 +1,4 @@
-- 👋 Hi, Mike aka I’m @Lolcoman
+- 👋 Hi, I’m Mike aka @Lolcoman
 - 👀 I’m interested in front-end,back-end developing and creating web-app.
 - 🌱 I’m currently learning Vue.js and C# with ESP32 development board.
 - 💞️ I’m looking to collaborate on ..... nothing :/
