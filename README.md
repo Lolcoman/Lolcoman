@@ -4,10 +4,10 @@
 - 👀 I’m interested in front-end,back-end developing and creating web-app  
   
 
-- 👷 I’m currently working on [BikeAccident](https://github.com/Lolcoman/BikeAccident)  
+- 👷 I’m currently working on ... 
   
 
-- 🌱 I’m currently learning Kotlin  
+- 🌱 I’m currently learning university 
   
 
 - ❓ Ask me about anything  
