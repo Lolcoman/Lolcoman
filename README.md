@@ -92,7 +92,10 @@ Rezervační systém - tenisových kurtů](https://tjsokolhornimostenice.cz/)
   
 
 - 👷🏗️ [VH-Technik
-"Od návrhu, přes konstrukci až po výrobu"](https://www.vh-technik.cz/)  
+"Od návrhu, přes konstrukci až po výrobu"](https://www.vh-technik.cz/)
+
+- 👷🏗️ [Progress-ok
+"Přetváříme ocel do podoby, která slouží lidem."](https://www.progress-ok.cz/)  
 
 <br />
 
