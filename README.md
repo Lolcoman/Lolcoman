@@ -86,10 +86,6 @@
 
 
 ## My websites  
-- 🎾⚽[TJ Sokol Horní Moštěnice
-Rezervační systém - tenisových kurtů](https://tjsokolhornimostenice.cz/)  
-  
-
 - 👷🏗️ [VH-Technik
 "Od návrhu, přes konstrukci až po výrobu"](https://www.vh-technik.cz/)
 
