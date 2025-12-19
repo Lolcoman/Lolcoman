@@ -4,10 +4,7 @@
 - 👀 I’m interested in front-end,back-end developing and creating web-app, IoT   
   
 
-- 👷 I’m currently working on OpenCV RPi camera parking AI  
-  
-
-- ➡️ Next Vue.js and C# with ESP32 development board  
+- 👷 I’m currently working on Smart Homes
   
 
 - ❓ Ask me about anything  
